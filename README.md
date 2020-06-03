@@ -1,1 +1,3 @@
-# htw-se-practical-asciidoctor-diagram-demo
+# Demo-Dokumentation
+
+Praktikumsbeispiel für die Verwendung von Diagrammen mit PlantUML in Asciidoctor.
