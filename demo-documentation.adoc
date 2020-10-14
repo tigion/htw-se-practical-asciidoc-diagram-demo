@@ -32,5 +32,5 @@ Ein Beispiel für ein direkt im Dokument eingebettetes PlantUML-Diagramm.
 
 Ein Beispiel für ein im Dokument inkludiertes PlantUML-Diagramm als externe Datei.
 
-// giagram placeholder
+// diagram placeholder
 
