@@ -20,6 +20,14 @@ Ein Testdiagramm, ob die Vorschau in VS Code bzw. die Generierung mit Asciidocto
 note right of Human : Hello
 ....
 
+.Graphiz Dot Test
+[plantuml, "{diagramsdir}/testdot", svg]
+....
+@startuml
+testdot
+@enduml
+....
+
 Hinweise zur Einrichtung siehe zugehörige Aufgabenstellung.
 
 === Eingebettet
