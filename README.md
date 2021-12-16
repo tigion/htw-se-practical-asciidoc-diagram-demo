@@ -4,7 +4,7 @@ Praktikumsbeispiel für die Demonstration der Verwendung von Diagrammen mit Plan
 
 ![Screenshot: Projekt in VS Code](README-screenshot.png)
 
-### Hinweise zur Vorschau der Diagramme Visual Studio Code
+### Hinweise zur Vorschau der Diagramme in Visual Studio Code
 
 Sind die benötigten Asciidoctor Tools ([Installationsanleitung](https://www.informatik.htw-dresden.de/~zirkelba/notes/se/asciidoc-installation-and-configuration/)) nicht lokal installiert, kann die Vorschau in Visual Studio Code für die Anzeige der PlantUML-Diagramme wie folgt angepasst werden:
 
