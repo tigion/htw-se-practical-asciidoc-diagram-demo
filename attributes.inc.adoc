@@ -19,7 +19,6 @@
 // --- PlantUML directories ---
 :diagramsdir: diagrams
 :plantumlsdir: plantuml
-//:plantuml-server-url: https://www.plantuml.com/plantuml
 
 // Don't delete the last two empty lines to avoid include errors
 
