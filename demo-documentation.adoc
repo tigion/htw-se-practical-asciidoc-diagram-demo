@@ -34,7 +34,7 @@ Hinweise zur Einrichtung siehe zugehörige Aufgabenstellung.
 
 Ein Beispiel für ein direkt im Dokument eingebettetes PlantUML-Diagramm.
 
-// diagarm placeholder
+// diagram placeholder
 
 === Inkludiert
 
