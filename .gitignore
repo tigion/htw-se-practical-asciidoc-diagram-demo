@@ -1,4 +1,11 @@
-*~
+# Syntax: https://git-scm.com/docs/gitignore
+
+# General
 .DS_Store
-**/images/diagrams/
+*~
+
+# Asciidoctor
 .asciidoctor/
+images/diagrams/
+*.pdf
+*.html
