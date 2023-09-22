@@ -9,3 +9,6 @@
 images/diagrams/
 *.pdf
 *.html
+
+# Code
+.devcontainer
