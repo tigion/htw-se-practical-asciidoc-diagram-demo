@@ -16,6 +16,7 @@ Ein Testdiagramm, ob die Vorschau in VS Code bzw. die Generierung mit Asciidocto
 .Testdiagramm
 [plantuml, "{diagramsdir}/hello_world", svg]
 ....
+actor Human
 (\nWorld\n) #dff
 note right of Human : Hello
 ....
