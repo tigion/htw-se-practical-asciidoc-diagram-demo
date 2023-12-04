@@ -10,8 +10,5 @@ Sind die benötigten Asciidoctor Tools ([Installationsanleitung](https://www.inf
 
 1. Folgend Einstellungen unter Preferences (oder Zahnradsymbol) -> Settings -> Extensions -> asciidoc in Visual Studio Code setzen bzw. aktivieren:
 
-    * Asciidoc: **Use_asciidoctor_js**: :white_check_mark: (aktiviert)
-    * Asciidoc: **Use_kroki**: :white_check_mark: (aktiviert)
-
-2. Visual Studio Code ggf. neustarten!
+    * AsciiDoc > Extensions: **Enable Kroki**: :white_check_mark: (aktiviert)
 
