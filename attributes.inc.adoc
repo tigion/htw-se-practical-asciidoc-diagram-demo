@@ -6,8 +6,8 @@
 //:nofooter:
 :icons: font
 :experimental:
-//:source-highlighter: highlightjs
-:source-highlighter: rouge
+:source-highlighter: highlightjs
+//:source-highlighter: rouge
 :xrefstyle: full
 :figure-caption: Abbildung
 :table-caption: Tabelle
